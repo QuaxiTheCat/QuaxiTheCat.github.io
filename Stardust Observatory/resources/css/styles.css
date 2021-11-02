@@ -1,0 +1,18 @@
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Geostar Fill', cursive;
+    color: rgba(15, 94, 185, 0.788);
+    font-size: 80px;
+    font-weight: 900;
+  }
+   
+   
+  p {
+    font-family: 'Special Elite', cursive;;
+    font-size: 18px;
+    color: whitesmoke;
+  }
